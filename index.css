@@ -1,0 +1,14 @@
+.inicio
+{
+    background:url("images/grassBack.jpg");
+}
+.contenido
+{
+    background-color: #CD853F;
+    height: 95%;
+    vertical-align: center;
+    margin-top: 2%;
+    margin-left: 12.5%;
+    align-items:right;
+    width: 75%;
+}
